@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:7:5-36:19
+14        android:allowBackup="true"
+14-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/bb8082f9fa9ab6b37138b62b4b849538/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:11:9-54
+19        android:label="my App"
+19-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:12:9-31
+20        android:supportsRtl="true"
+20-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.MyApplication"
+22-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:14:9-51
+23        android:usesCleartextTraffic="true" >
+23-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:8:9-44
+24        <activity
+24-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:16:9-18:39
+25            android:name="com.example.myapplication.view.WheelGameActivity"
+25-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:17:13-51
+26            android:exported="true" />
+26-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:18:13-36
+27        <activity
+27-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:19:9-21:40
+28            android:name="com.example.myapplication.view.WebActivity"
+28-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:20:13-45
+29            android:exported="false" />
+29-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:21:13-37
+30        <activity
+30-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:22:9-24:40
+31            android:name="com.example.myapplication.view.MenuActivity"
+31-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:23:13-46
+32            android:exported="false" />
+32-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:24:13-37
+33        <activity
+33-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:25:9-26:39
+34            android:name="com.example.myapplication.view.RecyclerViewActivity"
+34-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:25:19-60
+35            android:exported="false" />
+35-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:26:13-37
+36        <activity
+36-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:27:9-35:20
+37            android:name="com.example.myapplication.view.PrivacyPolicyActivity"
+37-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:28:13-55
+38            android:exported="true" >
+38-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:29:13-36
+39            <intent-filter>
+39-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:31:17-69
+40-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:33:17-77
+42-->/Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <service
+46-->[androidx.room:room-runtime:2.4.3] /Users/andrii_isaienko/.gradle/caches/transforms-3/2ac48be9d0c2236157bcf092a3bfd178/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+47            android:name="androidx.room.MultiInstanceInvalidationService"
+47-->[androidx.room:room-runtime:2.4.3] /Users/andrii_isaienko/.gradle/caches/transforms-3/2ac48be9d0c2236157bcf092a3bfd178/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+48            android:directBootAware="true"
+48-->[androidx.room:room-runtime:2.4.3] /Users/andrii_isaienko/.gradle/caches/transforms-3/2ac48be9d0c2236157bcf092a3bfd178/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+49            android:exported="false" />
+49-->[androidx.room:room-runtime:2.4.3] /Users/andrii_isaienko/.gradle/caches/transforms-3/2ac48be9d0c2236157bcf092a3bfd178/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.myapplication.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andrii_isaienko/.gradle/caches/transforms-3/d660f6b66184c4a5eabcf1d906a522ed/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andrii_isaienko/.gradle/caches/transforms-3/d660f6b66184c4a5eabcf1d906a522ed/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/andrii_isaienko/.gradle/caches/transforms-3/d660f6b66184c4a5eabcf1d906a522ed/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>

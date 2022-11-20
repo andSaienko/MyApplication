@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_recycler_view_activity.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/recycler_view_activity.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_background_text_card.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/background_text_card.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_privacy_policy_activity.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/privacy_policy_activity.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_border.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_web_activity.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/web_activity.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_game_activity.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/game_activity.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_flower.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/flower.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_row.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/row.xml"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_spin_wheel.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/spin_wheel.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/drawable_triangle.png.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/drawable/triangle.png"
+    },
+    {
+        "merged": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-merged_res-32:/layout_menu_activity.xml.flat",
+        "source": "/Users/andrii_isaienko/.gradle/daemon/7.4/com.example.myapplication.app-main-34:/layout/menu_activity.xml"
+    }
+]

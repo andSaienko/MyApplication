@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="privacyRules">What Is a Privacy Policy? A website privacy policy outlines your relationship with users’ personal information. To succeed online and avoid legal turmoil, your website needs a privacy policy agreement. The first step to creating a compliant and comprehensive privacy policy is understanding exactly what that is. Privacy Policy Definition A privacy policy is a legal document that informs your site’s users about how you collect and handle their personal information. You may also hear privacy policies referred to by the following names: Privacy notice Privacy policy statement Privacy page Privacy clause Privacy agreement A general privacy policy explains a platform’s interactions with the personal information and personally identifiable information (PII) of its users. PII is information that can be used by itself, or combined with other information, to identify an individual. Specific platforms or services may require a unique privacy policy template. Examples include: app privacy policies privacy policies for Blogger WordPress privacy policies eCommerce privacy policies small business privacy policies However, a standard privacy policy template will likely satisfy user demands and legal requirements for your website.</string>
+    <string name="next_button_text">next</string>
+    <string name="recycler">recycler</string>
+    <string name="hello_ondroed">hello ondroed</string>
+    <string name="web">web</string>
+    <string name="lucky_wheel">lucky wheel</string>
+    <string name="i_m_agree_with_terms_or_rules">I\'m agree with terms or rules</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+</resources>

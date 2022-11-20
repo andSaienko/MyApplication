@@ -1,0 +1,35 @@
+com.example.myapplication.app-lifecycle-viewmodel-2.5.1-0 /Users/andrii_isaienko/.gradle/caches/transforms-3/0437b9f28763ca5cd914d364194d95ec/transformed/lifecycle-viewmodel-2.5.1/res
+com.example.myapplication.app-sqlite-framework-2.2.0-1 /Users/andrii_isaienko/.gradle/caches/transforms-3/161d0b3dde30fd7b37c73a1f86cfb723/transformed/sqlite-framework-2.2.0/res
+com.example.myapplication.app-fragment-1.3.6-2 /Users/andrii_isaienko/.gradle/caches/transforms-3/1bec4a782769014dff7e622cfeb0e09d/transformed/fragment-1.3.6/res
+com.example.myapplication.app-annotation-experimental-1.1.0-3 /Users/andrii_isaienko/.gradle/caches/transforms-3/1dc7524843adc069f65bfe0ed94785b3/transformed/annotation-experimental-1.1.0/res
+com.example.myapplication.app-lifecycle-runtime-2.5.1-4 /Users/andrii_isaienko/.gradle/caches/transforms-3/1e1bcfd6d7bfbc695fe1600de438cd4e/transformed/lifecycle-runtime-2.5.1/res
+com.example.myapplication.app-appcompat-1.5.1-5 /Users/andrii_isaienko/.gradle/caches/transforms-3/20111da08f8a05130810bd4d51bc20d1/transformed/appcompat-1.5.1/res
+com.example.myapplication.app-room-runtime-2.4.3-6 /Users/andrii_isaienko/.gradle/caches/transforms-3/2ac48be9d0c2236157bcf092a3bfd178/transformed/room-runtime-2.4.3/res
+com.example.myapplication.app-sqlite-2.2.0-7 /Users/andrii_isaienko/.gradle/caches/transforms-3/2b6640ce841d724ea26c0c1a3d593851/transformed/sqlite-2.2.0/res
+com.example.myapplication.app-coordinatorlayout-1.1.0-8 /Users/andrii_isaienko/.gradle/caches/transforms-3/561777bb40480a368b0cbc185c101208/transformed/coordinatorlayout-1.1.0/res
+com.example.myapplication.app-cardview-1.0.0-9 /Users/andrii_isaienko/.gradle/caches/transforms-3/582c68940f9a05e2b166721caefeb2ea/transformed/cardview-1.0.0/res
+com.example.myapplication.app-startup-runtime-1.1.1-10 /Users/andrii_isaienko/.gradle/caches/transforms-3/5dcf5a0f881522408b9d8d3c1f4c4614/transformed/startup-runtime-1.1.1/res
+com.example.myapplication.app-material-1.6.1-11 /Users/andrii_isaienko/.gradle/caches/transforms-3/5e8b0d414ec6231a4f8be061a5bee333/transformed/material-1.6.1/res
+com.example.myapplication.app-core-ktx-1.8.0-12 /Users/andrii_isaienko/.gradle/caches/transforms-3/79b50d96c4f2dd589393a612836ba5f2/transformed/core-ktx-1.8.0/res
+com.example.myapplication.app-lifecycle-viewmodel-savedstate-2.5.1-13 /Users/andrii_isaienko/.gradle/caches/transforms-3/80658083d643f2166ec9ceb396afefc7/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.example.myapplication.app-emoji2-views-helper-1.2.0-14 /Users/andrii_isaienko/.gradle/caches/transforms-3/8de955fdf40a62e116e0415f2f99dfce/transformed/emoji2-views-helper-1.2.0/res
+com.example.myapplication.app-recyclerview-1.1.0-15 /Users/andrii_isaienko/.gradle/caches/transforms-3/98de5fbf2d2220c6643702f86a96df38/transformed/recyclerview-1.1.0/res
+com.example.myapplication.app-transition-1.2.0-16 /Users/andrii_isaienko/.gradle/caches/transforms-3/b2ed0d5c802cf3464efe164ed513b60e/transformed/transition-1.2.0/res
+com.example.myapplication.app-constraintlayout-2.1.4-17 /Users/andrii_isaienko/.gradle/caches/transforms-3/b91df084f161d32f9a0e31516d97fcf0/transformed/constraintlayout-2.1.4/res
+com.example.myapplication.app-core-1.8.0-18 /Users/andrii_isaienko/.gradle/caches/transforms-3/bb8082f9fa9ab6b37138b62b4b849538/transformed/core-1.8.0/res
+com.example.myapplication.app-savedstate-1.2.0-19 /Users/andrii_isaienko/.gradle/caches/transforms-3/ce2aa0891908224f0716e8fe5a0d1143/transformed/savedstate-1.2.0/res
+com.example.myapplication.app-lifecycle-process-2.4.1-20 /Users/andrii_isaienko/.gradle/caches/transforms-3/d660f6b66184c4a5eabcf1d906a522ed/transformed/lifecycle-process-2.4.1/res
+com.example.myapplication.app-lifecycle-livedata-core-2.5.1-21 /Users/andrii_isaienko/.gradle/caches/transforms-3/dfbd23fe631402363ad17085a6406b87/transformed/lifecycle-livedata-core-2.5.1/res
+com.example.myapplication.app-drawerlayout-1.1.1-22 /Users/andrii_isaienko/.gradle/caches/transforms-3/ee7475cb604f9ec7779c205ad12fb7b4/transformed/drawerlayout-1.1.1/res
+com.example.myapplication.app-appcompat-resources-1.5.1-23 /Users/andrii_isaienko/.gradle/caches/transforms-3/f3aeaea186be65330911309416711bea/transformed/appcompat-resources-1.5.1/res
+com.example.myapplication.app-emoji2-1.2.0-24 /Users/andrii_isaienko/.gradle/caches/transforms-3/f64a0aadfe7d4b7558871ea0c2e16e10/transformed/emoji2-1.2.0/res
+com.example.myapplication.app-activity-1.5.1-25 /Users/andrii_isaienko/.gradle/caches/transforms-3/f686cb200c9e002bd6bc2a3358544c2a/transformed/activity-1.5.1/res
+com.example.myapplication.app-viewpager2-1.0.0-26 /Users/andrii_isaienko/.gradle/caches/transforms-3/ffb61042294b471aea39b84beacc773b/transformed/viewpager2-1.0.0/res
+com.example.myapplication.app-pngs-27 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/generated/res/pngs/debug
+com.example.myapplication.app-resValues-28 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/generated/res/resValues/debug
+com.example.myapplication.app-rs-29 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/generated/res/rs/debug
+com.example.myapplication.app-packageDebugResources-30 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.myapplication.app-packageDebugResources-31 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.myapplication.app-merged_res-32 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/build/intermediates/merged_res/debug
+com.example.myapplication.app-debug-33 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/debug/res
+com.example.myapplication.app-main-34 /Users/andrii_isaienko/AndroidStudioProjects/MyApplication 2/app/src/main/res
